@@ -312,4 +312,4 @@ This component is released under the same license as the parent project.
 ## Credits
 
 - Original DS1603L library by Wouter van Marle (wouter@cityhydronics.hk, 2018)
-- ESP-IDF adaptation by Peter Stangsdal (2025)
+- ESP-IDF adaptation by Peter Kristensen (peter@stangsdal.dk, 2025)
