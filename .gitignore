@@ -1,0 +1,41 @@
+# ESP-IDF build artifacts
+build/
+sdkconfig
+sdkconfig.old
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# IDE files
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Component-specific build artifacts
+*.o
+*.a
+*.elf
+*.bin
+*.map
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Test artifacts
+test_build/
